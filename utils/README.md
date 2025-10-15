@@ -9,3 +9,4 @@ utils
 ├── network.ts: Provides helper functions for interacting with Flare network configurations, retrieving network-specific data (like contract addresses, API endpoints, DA Layer URLs), managing environment variables, and initializing contracts like FtsoV2.
 └── README.md
 ```
+<!-- Auto-update: 2025-10-15T17:22:29.650562 -->
